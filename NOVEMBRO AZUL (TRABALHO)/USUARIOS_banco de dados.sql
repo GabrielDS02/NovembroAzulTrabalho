@@ -42,9 +42,7 @@ CREATE TABLE `USUARIOS` (
 --
 
 INSERT INTO `USUARIOS` (`id`, `nome`, `cpf`, `idade`, `data_consulta`, `created_at`) VALUES
-(12, 'gabriel da silva machado', '153.621.296-27', 20, '2006-02-12', '2025-11-12 14:00:30'),
-(14, 'gabriel da silva machado', '153.621.296-28', 20, '2006-02-12', '2025-11-12 14:02:00'),
-(15, 'joao', '142.412.676-29', 18, '2006-11-25', '2025-11-12 14:06:15');
+(15, 'cleberson', '153.817.918-87', 18, '2006-11-25', '2025-11-12 14:06:15');
 
 --
 -- Índices de tabelas apagadas
